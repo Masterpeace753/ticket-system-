@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+*.egg-info/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Docker
+.dockerignore
+
+# SSL certs (never commit)
+nginx/certs/*.pem
+nginx/certs/*.crt
+nginx/certs/*.key
+
+# DB-Backup
+backup/dumps/
+
+# Editor
+.vscode/settings.json
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
