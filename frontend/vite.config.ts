@@ -20,5 +20,10 @@ export default defineConfig({
   test: {
     environment: 'jsdom',
     globals: true,
+    resolve: {
+      alias: {
+        '@': fileURLToPath(new URL('./src', import.meta.url)),
+      },
+    },
   },
 })
