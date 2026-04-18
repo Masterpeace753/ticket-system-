@@ -1,0 +1,150 @@
+{
+  "app": {
+    "title": "Ticket Tool",
+    "logout": "Logout",
+    "language": "Language"
+  },
+  "nav": {
+    "board": "Board",
+    "reports": "Reports",
+    "admin": "Administration"
+  },
+  "login": {
+    "title": "Sign In",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Sign In",
+    "error": "Invalid credentials"
+  },
+  "ticket": {
+    "new": "New Ticket",
+    "create": "Create Ticket",
+    "edit": "Edit Ticket",
+    "title": "Title",
+    "description": "Description",
+    "priority": "Priority",
+    "status": "Status",
+    "assignee": "Assignee",
+    "category": "Category",
+    "type": "Type",
+    "dueDate": "Due Date",
+    "createdBy": "Created by",
+    "createdAt": "Created at",
+    "updatedAt": "Last modified",
+    "details": "Details",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "deleteTitle": "Delete Ticket",
+    "deleteConfirm": "Really delete this ticket? This action cannot be undone.",
+    "confirmDelete": "Really delete this ticket?",
+    "archived": "Archived",
+    "archive": "Archive"
+  },
+  "status": {
+    "neu": "New",
+    "zugewiesen": "Assigned",
+    "in_bearbeitung": "In Progress",
+    "wartet_auf_rueckmeldung": "Awaiting Feedback",
+    "erledigt": "Done"
+  },
+  "priority": {
+    "niedrig": "Low",
+    "mittel": "Medium",
+    "hoch": "High",
+    "kritisch": "Critical"
+  },
+  "comment": {
+    "title": "Comments",
+    "empty": "No comments yet",
+    "add": "Add comment",
+    "placeholder": "Enter comment...",
+    "submit": "Send"
+  },
+  "filter": {
+    "search": "Search",
+    "searchPlaceholder": "Title or ID...",
+    "status": "Status",
+    "priority": "Priority",
+    "category": "Category",
+    "all": "All",
+    "assignedToMe": "Assigned to me",
+    "showArchived": "Show archived",
+    "unassigned": "Unassigned",
+    "allStatuses": "All Statuses",
+    "allPriorities": "All Priorities",
+    "allAssignees": "All Assignees",
+    "allCategories": "All Categories",
+    "reset": "Reset Filters"
+  },
+  "report": {
+    "title": "Reports",
+    "byStatus": "By Status",
+    "byAssignee": "By Assignee",
+    "byPriority": "By Priority",
+    "byCategory": "By Category",
+    "count": "Count"
+  },
+  "admin": {
+    "title": "Administration",
+    "tabs": {
+      "users": "Users",
+      "categories": "Categories",
+      "types": "Types"
+    },
+    "users": {
+      "title": "User Management",
+      "username": "Username",
+      "displayName": "Display Name",
+      "email": "Email",
+      "password": "Password",
+      "isAdmin": "Administrator",
+      "isActive": "Active",
+      "create": "Create User",
+      "deactivate": "Deactivate",
+      "deactivateTitle": "Deactivate User",
+      "deactivateConfirm": "Really deactivate {name}?"
+    },
+    "categories": {
+      "title": "Category Management",
+      "name": "Name",
+      "description": "Description",
+      "create": "Create Category"
+    },
+    "types": {
+      "title": "Type Management",
+      "name": "Name",
+      "category": "Category",
+      "create": "Create Type",
+      "selectCategory": "Select category"
+    }
+  },
+  "audit": {
+    "title": "Change History",
+    "empty": "No changes recorded",
+    "changed": "changed",
+    "field": "Field",
+    "from": "From",
+    "to": "To",
+    "changedBy": "Changed by",
+    "changedAt": "Changed at"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred.",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "actions": "Actions",
+    "required": "Required",
+    "yes": "Yes",
+    "no": "No",
+    "active": "Active",
+    "inactive": "Inactive",
+    "noData": "No entries found",
+    "unassigned": "Unassigned",
+    "none": "None"
+  }
+}

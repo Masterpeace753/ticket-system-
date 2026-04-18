@@ -1,0 +1,150 @@
+{
+  "app": {
+    "title": "Ticket-Tool",
+    "logout": "Abmelden",
+    "language": "Sprache"
+  },
+  "nav": {
+    "board": "Board",
+    "reports": "Berichte",
+    "admin": "Administration"
+  },
+  "login": {
+    "title": "Anmelden",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "submit": "Anmelden",
+    "error": "Ungültige Anmeldedaten"
+  },
+  "ticket": {
+    "new": "Neues Ticket",
+    "create": "Ticket erstellen",
+    "edit": "Ticket bearbeiten",
+    "title": "Titel",
+    "description": "Beschreibung",
+    "priority": "Priorität",
+    "status": "Status",
+    "assignee": "Verantwortlicher",
+    "category": "Kategorie",
+    "type": "Typ",
+    "dueDate": "Fälligkeitsdatum",
+    "createdBy": "Erstellt von",
+    "createdAt": "Erstellt am",
+    "updatedAt": "Zuletzt geändert",
+    "details": "Details",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "deleteTitle": "Ticket löschen",
+    "deleteConfirm": "Dieses Ticket wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "confirmDelete": "Ticket wirklich löschen?",
+    "archived": "Archiviert",
+    "archive": "Archiv"
+  },
+  "status": {
+    "neu": "Neu",
+    "zugewiesen": "Zugewiesen",
+    "in_bearbeitung": "In Bearbeitung",
+    "wartet_auf_rueckmeldung": "Wartet auf Rückmeldung",
+    "erledigt": "Erledigt"
+  },
+  "priority": {
+    "niedrig": "Niedrig",
+    "mittel": "Mittel",
+    "hoch": "Hoch",
+    "kritisch": "Kritisch"
+  },
+  "comment": {
+    "title": "Kommentare",
+    "empty": "Noch keine Kommentare",
+    "add": "Kommentar hinzufügen",
+    "placeholder": "Kommentar eingeben...",
+    "submit": "Senden"
+  },
+  "filter": {
+    "search": "Suche",
+    "searchPlaceholder": "Titel oder ID...",
+    "status": "Status",
+    "priority": "Priorität",
+    "category": "Kategorie",
+    "all": "Alle",
+    "assignedToMe": "Nur mir zugewiesen",
+    "showArchived": "Archivierte anzeigen",
+    "unassigned": "Nicht zugewiesen",
+    "allStatuses": "Alle Status",
+    "allPriorities": "Alle Prioritäten",
+    "allAssignees": "Alle Mitarbeiter",
+    "allCategories": "Alle Kategorien",
+    "reset": "Filter zurücksetzen"
+  },
+  "report": {
+    "title": "Berichte",
+    "byStatus": "Nach Status",
+    "byAssignee": "Nach Verantwortlichem",
+    "byPriority": "Nach Priorität",
+    "byCategory": "Nach Kategorie",
+    "count": "Anzahl"
+  },
+  "admin": {
+    "title": "Administration",
+    "tabs": {
+      "users": "Benutzer",
+      "categories": "Kategorien",
+      "types": "Typen"
+    },
+    "users": {
+      "title": "Benutzerverwaltung",
+      "username": "Benutzername",
+      "displayName": "Anzeigename",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "isAdmin": "Administrator",
+      "isActive": "Aktiv",
+      "create": "Benutzer anlegen",
+      "deactivate": "Deaktivieren",
+      "deactivateTitle": "Benutzer deaktivieren",
+      "deactivateConfirm": "Möchten Sie {name} wirklich deaktivieren?"
+    },
+    "categories": {
+      "title": "Kategorieverwaltung",
+      "name": "Name",
+      "description": "Beschreibung",
+      "create": "Kategorie anlegen"
+    },
+    "types": {
+      "title": "Typverwaltung",
+      "name": "Name",
+      "category": "Kategorie",
+      "create": "Typ anlegen",
+      "selectCategory": "Kategorie wählen"
+    }
+  },
+  "audit": {
+    "title": "Änderungshistorie",
+    "empty": "Keine Änderungen",
+    "changed": "hat geändert",
+    "field": "Feld",
+    "from": "Von",
+    "to": "Nach",
+    "changedBy": "Geändert von",
+    "changedAt": "Geändert am"
+  },
+  "common": {
+    "loading": "Lädt...",
+    "error": "Ein Fehler ist aufgetreten.",
+    "confirm": "Bestätigen",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "actions": "Aktionen",
+    "required": "Pflichtfeld",
+    "yes": "Ja",
+    "no": "Nein",
+    "active": "Aktiv",
+    "inactive": "Inaktiv",
+    "noData": "Keine Einträge vorhanden",
+    "unassigned": "Nicht zugewiesen",
+    "none": "Keine"
+  }
+}
